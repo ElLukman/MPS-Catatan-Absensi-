@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.lukman.absensi.runtime/com.lukman.absensi.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.lukman.absensi.tests/com.lukman.absensi.tests.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.lukman.absensi/com.lukman.absensi.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/absensi_sol/absensi_sol.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:f8bff13d-da19-4512-b9e2-4bd1e1f471cf(absensi_sol.a_model)/8867252212775615149">
+    <file name="Absensi.java">
+      <node id="8867252212775615150" at="7,47,8,38" concept="0" />
+      <node id="8867252212775615150" at="8,38,9,41" concept="0" />
+      <node id="8867252212775615150" at="9,41,10,29" concept="0" />
+      <node id="8867252212775615150" at="10,29,11,29" concept="0" />
+      <node id="8867252212775615149" at="13,0,14,0" concept="1" />
+      <node id="8867252212775615149" at="7,0,16,0" concept="2" trace="main#([Ljava/lang/String;)V" />
+      <scope id="8867252212775615150" at="7,47,11,29" />
+      <scope id="8867252212775615149" at="7,42,14,0" />
+      <scope id="8867252212775615149" at="7,0,16,0">
+        <var name="args" id="8867252212775615149" />
+      </scope>
+      <unit id="8867252212775615149" at="6,0,17,0" name="absensi_sol.a_model.Absensi" />
+    </file>
+  </root>
+  <root nodeRef="r:f8bff13d-da19-4512-b9e2-4bd1e1f471cf(absensi_sol.a_model)/8867252212775633628">
+    <file name="Absensi.java">
+      <node id="8867252212775633629" at="7,47,8,38" concept="0" />
+      <node id="8867252212775633629" at="8,38,9,41" concept="0" />
+      <node id="8867252212775633629" at="9,41,10,29" concept="0" />
+      <node id="8867252212775633629" at="10,29,11,29" concept="0" />
+      <node id="8867252212775633631" at="13,5,14,29" concept="0" />
+      <node id="8867252212775633631" at="14,29,15,29" concept="0" />
+      <node id="8867252212775633631" at="15,29,16,36" concept="0" />
+      <node id="8867252212775633631" at="16,36,17,29" concept="0" />
+      <node id="8867252212775633628" at="19,0,20,0" concept="1" />
+      <node id="8867252212775633628" at="7,0,22,0" concept="2" trace="main#([Ljava/lang/String;)V" />
+      <scope id="8867252212775633629" at="7,47,11,29" />
+      <scope id="8867252212775633631" at="13,5,17,29" />
+      <scope id="8867252212775633628" at="7,42,20,0" />
+      <scope id="8867252212775633628" at="7,0,22,0">
+        <var name="args" id="8867252212775633628" />
+      </scope>
+      <unit id="8867252212775633628" at="6,0,23,0" name="absensi_sol.a_model.Absensi" />
+    </file>
+  </root>
+  <root nodeRef="r:f8bff13d-da19-4512-b9e2-4bd1e1f471cf(absensi_sol.a_model)/8867252212775652324">
+    <file name="Absensi.java">
+      <node id="8867252212775652325" at="7,47,8,29" concept="0" />
+      <node id="8867252212775652325" at="8,29,9,29" concept="0" />
+      <node id="8867252212775652325" at="9,29,10,36" concept="0" />
+      <node id="8867252212775652325" at="10,36,11,29" concept="0" />
+      <node id="8867252212775652324" at="13,0,14,0" concept="1" />
+      <node id="8867252212775652324" at="7,0,16,0" concept="2" trace="main#([Ljava/lang/String;)V" />
+      <scope id="8867252212775652325" at="7,47,11,29" />
+      <scope id="8867252212775652324" at="7,42,14,0" />
+      <scope id="8867252212775652324" at="7,0,16,0">
+        <var name="args" id="8867252212775652324" />
+      </scope>
+      <unit id="8867252212775652324" at="6,0,17,0" name="absensi_sol.a_model.Absensi" />
+    </file>
+  </root>
+</debug-info>
+

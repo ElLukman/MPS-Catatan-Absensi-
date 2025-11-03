@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:e2621278-8d6d-46db-869a-df17fa1bbfc2(com.lukman.absensi.tests)/2810984752825675317">
+    <file name="Absensi.java">
+      <node id="2810984752826027993" at="7,47,8,38" concept="0" />
+      <node id="2810984752826027993" at="8,38,9,41" concept="0" />
+      <node id="2810984752826027993" at="9,41,10,34" concept="0" />
+      <node id="2810984752826027993" at="10,34,11,29" concept="0" />
+      <node id="2810984752825675317" at="13,0,14,0" concept="1" />
+      <node id="2810984752825675317" at="7,0,16,0" concept="2" trace="main#([Ljava/lang/String;)V" />
+      <scope id="2810984752826027993" at="7,47,11,29" />
+      <scope id="2810984752825675317" at="7,42,14,0" />
+      <scope id="2810984752825675317" at="7,0,16,0">
+        <var name="args" id="2810984752825675317" />
+      </scope>
+      <unit id="2810984752825675317" at="6,0,17,0" name="com.lukman.absensi.tests.Absensi" />
+    </file>
+  </root>
+  <root nodeRef="r:e2621278-8d6d-46db-869a-df17fa1bbfc2(com.lukman.absensi.tests)/399744522974776653">
+    <file name="AbsensiTest.java">
+      <unit id="399744522974776653" at="6,0,9,0" name="com.lukman.absensi.tests.AbsensiTest" />
+    </file>
+  </root>
+</debug-info>
+
